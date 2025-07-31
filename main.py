@@ -8,7 +8,7 @@ from myutils import cosine_similarity
 class AnimalReIDApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Sertão Silvestre by:Collor")
+        self.root.title("Identification by:Collor")
         
         # Define o ícone da janela (para Windows, é necessário um arquivo .ico)
         try:
